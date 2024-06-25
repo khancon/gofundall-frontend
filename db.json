@@ -1,0 +1,185 @@
+{
+    "campaigns": [
+      {
+        "id": "1",
+        "name": "Help John Recover from Surgery",
+        "description": "John had a major surgery and needs financial support for recovery. Please help!",
+        "target_amount": 5000,
+        "current_amount": 100,
+        "gofundme_url": "https://www.gofundme.com/f/help-john-recover-from-surgery",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "2",
+        "name": "Support Jane's Education",
+        "description": "Jane is a bright student who needs financial help to continue her education.",
+        "target_amount": 10000,
+        "current_amount": 3000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "3",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "4",
+        "name": "Help John Recover from Surgery",
+        "description": "John had a major surgery and needs financial support for recovery. Please help!",
+        "target_amount": 5000,
+        "current_amount": 1200,
+        "gofundme_url": "https://www.gofundme.com/f/help-john-recover-from-surgery",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "5",
+        "name": "Support Jane's Education",
+        "description": "Jane is a bright student who needs financial help to continue her education.",
+        "target_amount": 10000,
+        "current_amount": 3000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "6",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "7",
+        "name": "Help John Recover from Surgery",
+        "description": "John had a major surgery and needs financial support for recovery. Please help!",
+        "target_amount": 5000,
+        "current_amount": 1200,
+        "gofundme_url": "https://www.gofundme.com/f/help-john-recover-from-surgery",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "8",
+        "name": "Support Jane's Education",
+        "description": "Jane is a bright student who needs financial help to continue her education.",
+        "target_amount": 10000,
+        "current_amount": 3000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "9",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "10",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "11",
+        "name": "Help John Recover from Surgery",
+        "description": "John had a major surgery and needs financial support for recovery. Please help!",
+        "target_amount": 5000,
+        "current_amount": 1200,
+        "gofundme_url": "https://www.gofundme.com/f/help-john-recover-from-surgery",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "12",
+        "name": "Support Jane's Education",
+        "description": "Jane is a bright student who needs financial help to continue her education.",
+        "target_amount": 10000,
+        "current_amount": 3000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "13",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "14",
+        "name": "Help John Recover from Surgery",
+        "description": "John had a major surgery and needs financial support for recovery. Please help!",
+        "target_amount": 5000,
+        "current_amount": 1200,
+        "gofundme_url": "https://www.gofundme.com/f/help-john-recover-from-surgery",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "15",
+        "name": "Support Jane's Education",
+        "description": "Jane is a bright student who needs financial help to continue her education.",
+        "target_amount": 10000,
+        "current_amount": 3000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "16",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "17",
+        "name": "Help John Recover from Surgery",
+        "description": "John had a major surgery and needs financial support for recovery. Please help!",
+        "target_amount": 5000,
+        "current_amount": 1200,
+        "gofundme_url": "https://www.gofundme.com/f/help-john-recover-from-surgery",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "18",
+        "name": "Support Jane's Education",
+        "description": "Jane is a bright student who needs financial help to continue her education.",
+        "target_amount": 10000,
+        "current_amount": 3000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "19",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      },
+      {
+        "id": "20",
+        "name": "Support Ahmed",
+        "description": "Save Ahmed",
+        "target_amount": 80000,
+        "current_amount": 80000,
+        "gofundme_url": "https://www.gofundme.com/f/support-janes-education",
+        "last_updated": "2023-06-07T12:00:00Z"
+      }
+    ]
+  }
+  

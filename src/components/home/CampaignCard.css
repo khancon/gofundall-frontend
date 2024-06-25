@@ -1,0 +1,10 @@
+/* src/components/home/CampaignCard.css */
+.campaign-card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .campaign-card {
+    cursor: pointer;
+  }
+  
